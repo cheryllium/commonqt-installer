@@ -1,5 +1,5 @@
 ; CommonQt Installer v1.0
-; C. Yang (cherie@cmu.edu)
+; C. Yang (lisp@cheryllium.com)
 ; 
 ; Note: build with the "large string" special build of nsis.
 ; Known Issue: this script will overwrite system Path instead of 
